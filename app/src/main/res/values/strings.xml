@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Art Gallery</string>
+    <string name="Prev">Previous</string>
+    <string name="Next">Next</string>
+    <string name="Demon">Demon Slayer:Kimetsu no Yaiba</string>
+    <string name="Luffy">One Piece</string>
+    <string name="Naruto">Naruto</string>
+    <string name="A1">Koyoharu Gotouge </string>
+    <string name="A2">Eiichiro Oda</string>
+    <string name="A3">Masashi Kishimoto</string>
+    <string name="Y1">(2019-Ongoing)</string>
+    <string name="Y2">(1999-Ongoing)</string>
+    <string name="Y3">(2002-2017)</string>
+    <string name="title">Art Gallery</string>
+    <string name="details_show">Show Details?</string>
+</resources>
